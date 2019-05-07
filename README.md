@@ -25,3 +25,5 @@ For this reason, the only remaining options to calculate the shortest path of th
 1. SolvingQuestion1/SolvingQuestion1.cs 
 2. SolvingQuestion2/SolvingQuestion2.cs
 3. SolvingQuestion3/SolvingQuestion3.cs
+
+If you want to see the code running, just clone this repository and open the .sln file with Visual Studio!
