@@ -19,3 +19,9 @@ For this reason, the only remaining options to calculate the shortest path of th
 
 *Even thought I did not use TDD thoroughly, the Test Project guided me to finish all the logic.*
 
+
+**The logic used to answer the three questions can be found in the next three files:**
+
+1. SolvingQuestion1/SolvingQuestion1.cs 
+2. SolvingQuestion2/SolvingQuestion2.cs
+3. SolvingQuestion3/SolvingQuestion3.cs
