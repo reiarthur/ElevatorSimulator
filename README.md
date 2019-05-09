@@ -17,7 +17,7 @@ Therefore, the efficiency requested by Even3 at the tech challenge will always r
 
 For this reason, the only remaining options to calculate the shortest path of the elevator will be: if it was previously going up or down.
 
-*Even thought I did not use TDD thoroughly, the Test Project guided me to finish all the logic.*
+*Even though I did not use TDD thoroughly, the Test Project guided me to finish all the logic.*
 
 
 **The logic used to answer the three questions can be found in the next three files:**
